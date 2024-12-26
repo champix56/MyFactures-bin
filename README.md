@@ -1,5 +1,6 @@
 # MyFactures-bin
 ## Version 0.4.2
+[téléchargement installeur](https://github.com/champix56/MyFactures-bin/releases/tag/v0.4.2)
 ### nouveautés
 - filtrage des prestations
 - génération de bons de livraison(uniquement sur factures validées)
@@ -11,6 +12,7 @@
 - correction de la saisie des clients et gestion des adresses de livraisons
 - correction d'accès et surpression des clients par la liste de filtrage
 ## Version 0.4.1
+[téléchargement installeur](https://github.com/champix56/MyFactures-bin/releases/tag/v0.4.1)
 ### nouveautés
 - fix des Filtres de recherche de facture 
 - ajout des règlements sur factures validées
