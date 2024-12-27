@@ -1,4 +1,10 @@
 # MyFactures-bin
+## Version 0.4.4
+[téléchargement installeur](https://github.com/champix56/MyFactures-bin/releases/tag/v0.4.4)
+### Nouveautés
+- transformation de factures vers avoir
+- transformation d'avoir vers facture
+- transformation de devis vers facture
 ## Version 0.4.3
 [téléchargement installeur](https://github.com/champix56/MyFactures-bin/releases/tag/v0.4.3)
 ### nouveautés:
