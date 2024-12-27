@@ -1,4 +1,8 @@
 # MyFactures-bin
+## Version 0.4.3
+[téléchargement installeur](https://github.com/champix56/MyFactures-bin/releases/tag/v0.4.3)
+### nouveautés:
+- envoie des factures/avoirs/devis validés par mail 
 ## Version 0.4.2
 [téléchargement installeur](https://github.com/champix56/MyFactures-bin/releases/tag/v0.4.2)
 ### nouveautés
