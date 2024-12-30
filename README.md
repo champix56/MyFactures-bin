@@ -1,4 +1,8 @@
 # MyFactures-bin
+## Version 0.4.5
+[téléchargement installeur](https://github.com/champix56/MyFactures-bin/releases/tag/v0.4.5)
+## Nouveautés :
+- Prise en charge d'acompte pour les factures non validés
 ## Version 0.4.4
 [téléchargement installeur](https://github.com/champix56/MyFactures-bin/releases/tag/v0.4.4)
 ### Nouveautés
